@@ -9,7 +9,7 @@ public class GameController : MonoBehaviour {
     // PRIVATE INSTANCE VARIBLES++++++++++++++++++++++++
 
 	private int _scoreValue;
-	private int _livesValue =20;
+	private int _livesValue =10;
 	private AudioSource[] _sounds;
 	private AudioSource _gameOverSound;
 
